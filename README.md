@@ -21,7 +21,7 @@
 
 ## 👥 Servidor Recomendado
 
-[![Servidor dos Programadores](https://cardzera.audibert.dev/api/SEU_SERVER_ID?t=timestamp)](https://discord.gg/servidordosprogramadores)
+[![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
 
 Essa é uma comunidade do Discord que recomendo para todos os devs — seja iniciante ou não — para trocar ideias, tirar dúvidas, ajudar quem está começando e crescer junto com outros programadores.
 
