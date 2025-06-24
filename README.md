@@ -19,6 +19,14 @@
 
 ---
 
+## 👥 Servidor Recomendado
+
+[![Servidor dos Programadores](https://cardzera.audibert.dev/api/1183868017716629565?t=1)](https://discord.gg/servidordosprogramadores)
+
+Essa é uma comunidade do Discord que recomendo para todos os devs — seja iniciante ou não — para trocar ideias, tirar dúvidas, ajudar quem está começando e crescer junto com outros programadores.
+
+---
+
 ### 🌐 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldevweb)  
