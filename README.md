@@ -1,5 +1,5 @@
 <h1 align="center">Gabriel Barreto 🚀</h1>
-<p align="center">Desenvolvedor Front-End em formação | Transformando aprendizado em código</p>
+<p align="center">Desenvolvedor Full Stack em formação | Transformando aprendizado em código</p>
 
 ---
 
@@ -7,7 +7,8 @@
 
 📘 Estudante de Desenvolvimento Web em constante aprendizado.  
 🚀 Criando projetos próprios pra praticar e evoluir como dev.  
-🎯 Buscando me transformar através da programação e fazer disso minha carreira.
+🎯 Buscando me transformar através da programação e fazer disso minha carreira.  
+🧩 Foco em desenvolvimento **Full Stack**, com ênfase em **PHP**, além de tecnologias Front-End.
 
 ---
 
@@ -15,7 +16,9 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
