@@ -18,6 +18,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -27,8 +28,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Devweb&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Devweb&layout=compact&langs_count=7&theme=radical"/>
-  <img src="https://i.imgur.com/MzQkD7P.jpg" alt="Joker" height="180em"/>
-</div>
 
 ---
 
