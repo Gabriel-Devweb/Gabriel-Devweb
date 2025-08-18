@@ -22,11 +22,13 @@
 
 ---
 
-## 👥 Servidor Recomendado
+### 📊 GitHub Stats
 
-[![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
-
-Essa é uma comunidade do Discord que recomendo para todos os devs — seja iniciante ou não — para trocar ideias, tirar dúvidas, ajudar quem está começando e crescer junto com outros programadores.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Devweb&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Devweb&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://i.imgur.com/MzQkD7P.jpg" alt="Joker" height="180em"/>
+</div>
 
 ---
 
@@ -34,6 +36,14 @@ Essa é uma comunidade do Discord que recomendo para todos os devs — seja inic
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldevweb)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gb_barrto)
+
+---
+
+## 👥 Servidor Recomendado
+
+[![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
+
+Essa é uma comunidade do Discord que recomendo para todos os devs — seja iniciante ou não — para trocar ideias, tirar dúvidas, ajudar quem está começando e crescer junto com outros programadores.
 
 ---
 
