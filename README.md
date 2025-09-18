@@ -8,7 +8,7 @@
 📘 Estudante de Desenvolvimento Web em constante aprendizado.  
 🚀 Criando projetos próprios pra praticar e evoluir como dev.  
 🎯 Buscando me transformar através da programação e fazer disso minha carreira.  
-🧩 Foco em desenvolvimento **Full Stack**, com ênfase em **PHP**, além de tecnologias Front-End.
+🧩 Foco em desenvolvimento **Full Stack**, com ênfase em **Java e PHP**, além de tecnologias Front-End.
 
 ---
 
