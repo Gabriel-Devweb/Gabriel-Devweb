@@ -23,12 +23,7 @@ Busco sempre aprender novas tecnologias e criar soluções eficientes que facili
 </p>
 
 ---
+## 📊 Estatística 
 
-## 📊 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/Gabriel-Devweb">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Devweb&show_icons=true&theme=radical&cache_seconds=86400&locale=pt-br"/>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Devweb&layout=compact&langs_count=7&theme=radical&cache_seconds=86400&locale=pt-br&custom_title=Tecnologias"/>
-  </a>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Devweb&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Estatísticas do GitHub de Gabriel Barreto" height="160em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Devweb&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br&custom_title=Tecnologias" height="130em"/>
