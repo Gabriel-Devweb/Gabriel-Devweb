@@ -26,13 +26,7 @@ Busco sempre aprender novas tecnologias e criar soluções eficientes que facili
 
 ## 📊 Estatísticas
 
-### Estatísticas do GitHub de Gabriel Barreto
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Devweb&show_icons=true&theme=radical&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Devweb&layout=compact&langs_count=7&theme=radical&cache_seconds=86400"/>
-
----
-
-## 🌐 Redes Sociais
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldevweb)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gb_barrto)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Devweb&show_icons=true&theme=radical&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Devweb&layout=compact&langs_count=7&theme=radical&cache_seconds=86400"/>
+</div>
