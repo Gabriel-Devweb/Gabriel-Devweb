@@ -1,6 +1,6 @@
 # 👨‍💻 Gabriel Barreto
 
-## Desenvolvedor Full Stack
+## ![Badge](https://img.shields.io/badge/Desenvolvedor%20FullStack-blueviolet?style=for-the-badge)
 
 Estudante de **Desenvolvimento Web**, com foco em **aplicações full stack**.  
 Tenho experiência com **Java**, **PHP**, **MySQL**, além de sólidos conhecimentos em **HTML**, **CSS** e **JavaScript**.
