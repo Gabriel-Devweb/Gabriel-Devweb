@@ -29,6 +29,6 @@ Busco sempre aprender novas tecnologias e criar soluções eficientes que facili
 <div align="center">
   <a href="https://github.com/Gabriel-Devweb">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Devweb&show_icons=true&theme=radical&cache_seconds=86400"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Devweb&layout=compact&langs_count=7&theme=radical&cache_seconds=86400"/>
+    <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Devweb&layout=compact&langs_count=7&theme=radical&cache_seconds=86400"/>
   </a>
 </div>
