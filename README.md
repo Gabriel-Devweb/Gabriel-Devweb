@@ -1,51 +1,36 @@
-<h1 align="center">Gabriel Barreto 🚀</h1>
-<p align="center">Desenvolvedor Full Stack em formação | Transformando aprendizado em código</p>
+# 👨‍💻 Gabriel Barreto
+
+## Desenvolvedor Full Stack
+
+Estudante de **Desenvolvimento Web**, com foco em **aplicações full stack**.  
+Tenho experiência com **Java**, **PHP**, **MySQL**, além de sólidos conhecimentos em **HTML**, **CSS** e **JavaScript**.
+
+Gosto de criar projetos práticos para desenvolver minhas habilidades e aplicar boas práticas de programação, utilizando **Git/GitHub** para organização e versionamento.  
+Busco sempre aprender novas tecnologias e criar soluções eficientes que facilitem a vida dos usuários.
 
 ---
 
-### 👨‍💻 Sobre mim
+## 🌐 Linguagens e Tecnologias
 
-📘 Estudante de Desenvolvimento Web em constante aprendizado.  
-🚀 Criando projetos próprios pra praticar e evoluir como dev.  
-🎯 Buscando me transformar através da programação e fazer disso minha carreira.  
-🧩 Foco em desenvolvimento **Full Stack**, com ênfase em **Java e PHP**, além de tecnologias Front-End.
-
----
-
-### 💻 Tecnologias que uso
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br>
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) <br>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) <br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <br>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
 
 ---
 
-### 📊 GitHub Stats
+## 📊 Estatísticas
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Devweb&show_icons=true&theme=radical&cache_seconds=86400" />
+### Estatísticas do GitHub de Gabriel Barreto
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Devweb&show_icons=true&theme=radical&cache_seconds=86400"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Devweb&layout=compact&langs_count=7&theme=radical&cache_seconds=86400"/>
 
 ---
 
-### 🌐 Redes Sociais
+## 🌐 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldevweb)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldevweb)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gb_barrto)
-
----
-
-## 👥 Servidor Recomendado
-
-[![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
-
-Essa é uma comunidade do Discord que recomendo para todos os devs — seja iniciante ou não — para trocar ideias, tirar dúvidas, ajudar quem está começando e crescer junto com outros programadores.
-
----
-
-### 📩 Contato
-
-**bielsilvabarreto2012@gmail.com**
