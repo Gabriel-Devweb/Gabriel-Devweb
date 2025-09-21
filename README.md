@@ -26,5 +26,7 @@ Busco sempre aprender novas tecnologias e criar soluções eficientes que facili
 
 ## 📊 Estatística 
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Devweb&show_icons=true&locale=pt-br&title_color=800080&icon_color=800080&text_color=c9d1d9&bg_color=0d1117"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Devweb&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br&custom_title=Tecnologias" height="130em"/>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Devweb&show_icons=true&locale=pt-br&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Devweb&layout=compact&langs_count=7&locale=pt-br&theme=tokyonight&custom_title=Tecnologias"/>
+</div>
