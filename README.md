@@ -3,7 +3,7 @@
 ## ![Badge](https://img.shields.io/badge/Desenvolvedor%20FullStack-0d1117?style=for-the-badge&logoColor=800080&labelColor=800080&color=0d1117)
 
 Estudante de **Desenvolvimento Web**, com foco em **aplicações full stack**.  
-Tenho experiência com **Java**, **PHP**, **MySQL**, além de sólidos conhecimentos em **HTML**, **CSS** e **JavaScript**.
+Tenho experiência com **Java**, **MySQL**, além de sólidos conhecimentos em **HTML**, **CSS** e **JavaScript**.
 
 Gosto de criar projetos práticos para desenvolver minhas habilidades e aplicar boas práticas de programação, utilizando **Git/GitHub** para organização e versionamento.  
 Busco sempre aprender novas tecnologias e criar soluções eficientes que facilitem a vida dos usuários.
@@ -17,7 +17,6 @@ Busco sempre aprender novas tecnologias e criar soluções eficientes que facili
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
